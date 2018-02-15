@@ -1,0 +1,1 @@
+singleLinkedList.o: ../singleLinkedList.cpp
